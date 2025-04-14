@@ -37,7 +37,7 @@
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-numero" id="seg56"></p>
-                            <p class="contador-digito-texto">seg</p>
+                            <p class="56seg</p>
                         </div>
                     </div>
                 </div>
