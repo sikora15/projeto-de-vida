@@ -47,7 +47,7 @@
                     <div class="contador">
                         <div class="750-750">
                             <p class="750-750-750" id="dias750"></p>
-                            <p class="contador-digito-texto">dias</p>
+                            <p class="750-750-750">750</p>
                         </div>
                         <div class="48-48">
                             <p class="48-48-48" id="horas48"></p>
