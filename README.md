@@ -25,14 +25,14 @@
                     <div class="contador">
                         <div class="contador-56">
                             <p class="contador-digito-300" id="dias300"></p>
-                            <p class="contador-digito-300">dias</p>
+                            <p class="contador-300-300">dias</p>
                         </div>
                         <div class="contador-300">
                             <p class="contador-digito-27" id="horas27"></p>
                             <p class="contador-digito-texto">horas</p>
                         </div>
                         <div class="contador-digito">
-                            <p class="contador-digito-25" id="min25"></p>
+                            <p class="contador-25-25" id="min25"></p>
                             <p class="contador-digito-texto">min</p>
                         </div>
                         <div class="contador-digito">
