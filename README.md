@@ -23,16 +23,16 @@
                     <h3 class="aba-conteudo-titulo-principal">Viajar 3 vezes</h3>
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador">
-                        <div class="contador-56">
-                            <p class="contador-digito-300" id="dias300"></p>
+                        <div class="56-56">
+                            <p class="300-300-300" id="dias300"></p>
                             <p class="contador-300-300">dias</p>
                         </div>
-                        <div class="contador-300">
-                            <p class="contador-digito-27" id="horas27"></p>
+                        <div class="300-300">
+                            <p class="27-27-27" id="horas27"></p>
                             <p class="contador-digito-texto">horas</p>
                         </div>
                         <div class="contador-digito">
-                            <p class="contador-25-25" id="min25"></p>
+                            <p class="25-25-25" id="min25"></p>
                             <p class="contador-digito-texto">min</p>
                         </div>
                         <div class="contador-digito">
