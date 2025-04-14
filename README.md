@@ -25,18 +25,18 @@
                     <div class="contador">
                         <div class="56-56">
                             <p class="300-300-300" id="dias300"></p>
-                            <p class="contador-300-300">dias</p>
+                            <p class="300-300-300">dias</p>
                         </div>
                         <div class="300-300">
                             <p class="27-27-27" id="horas27"></p>
-                            <p class="contador-digito-texto">horas</p>
+                            <p class="27-27-27">horas</p>
                         </div>
-                        <div class="contador-digito">
+                        <div class="25-25">
                             <p class="25-25-25" id="min25"></p>
-                            <p class="contador-digito-texto">min</p>
+                            <p class="25-25-25">min</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-56" id="seg56"></p>
+                        <div class="56-56">
+                            <p class="56-56-56" id="seg56"></p>
                             <p class="56seg</p>
                         </div>
                     </div>
@@ -45,20 +45,20 @@
                     <h3 class="aba-conteudo-titulo-principal">Consórcio de um carro</h3>
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador">
-                        <div class="contador-digito">
-                            <p class="contador-digito-750" id="dias750"></p>
+                        <div class="750-750">
+                            <p class="750-750-750" id="dias750"></p>
                             <p class="contador-digito-texto">dias</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-48" id="horas48"></p>
+                        <div class="48-48">
+                            <p class="48-48-48" id="horas48"></p>
                             <p class="contador-digito-texto">horas</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-12" id="min12"></p>
+                        <div class="12-12">
+                            <p class="12-12-12" id="min12"></p>
                             <p class="contador-digito-texto">min</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-15" id="seg15"></p>
+                        <div class="12-12">
+                            <p class="15-15-15" id="seg15"></p>
                             <p class="contador-digito-texto">seg</p>
                         </div>
                     </div>
@@ -67,20 +67,20 @@
                     <h3 class="aba-conteudo-titulo-principal">Ganhar um exelente salário</h3>
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador">
-                        <div class="contador-digito">
-                            <p class="contador-digito-300" id="dias300"></p>
+                        <div class="300-300">
+                            <p class="300-300-300" id="dias300"></p>
                             <p class="contador-digito-texto">dias</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-29" id="horas29"></p>
+                        <div class="29-29">
+                            <p class="20-29-29" id="horas29"></p>
                             <p class="contador-digito-texto">horas</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-26" id="min26"></p>
+                        <div class="26-26">
+                            <p class="26-26-26" id="min26"></p>
                             <p class="contador-digito-texto">min</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-20" id="seg20"></p>
+                        <div class="20-20">
+                            <p class="20-20-20" id="seg20"></p>
                             <p class="contador-digito-texto">seg</p>
                         </div>
                     </div>
@@ -90,19 +90,19 @@
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador">
                         <div class="contador-digito">
-                            <p class="contador-digito-240" id="dias240"></p>
+                            <p class="240-240-240" id="dias240"></p>
                             <p class="contador-digito-texto">dias</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-1" id="horas1"></p>
+                        <div class="1-1">
+                            <p class="1-1-1" id="horas1"></p>
                             <p class="contador-digito-texto">horas</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-3" id="min3"></p>
+                        <div class="3-3">
+                            <p class="3-3-3" id="min3"></p>
                             <p class="contador-digito-texto">min</p>
                         </div>
-                        <div class="contador-digito">
-                            <p class="contador-digito-38" id="seg38"></p>
+                        <div class="38-38">
+                            <p class="38-38-38" id="seg38"></p>
                             <p class="contador-digito-texto">seg</p>
                         </div>
                     </div>
