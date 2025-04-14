@@ -25,7 +25,7 @@
                     <div class="contador">
                         <div class="contador-56">
                             <p class="contador-digito-300" id="dias300"></p>
-                            <p class="contador-digito-texto">dias</p>
+                            <p class="contador-digito-300">dias</p>
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-27" id="horas27"></p>
