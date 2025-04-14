@@ -25,15 +25,15 @@
                     <div class="contador">
                         <div class="56-56">
                             <p class="300-300-300" id="dias300"></p>
-                            <p class="300-300-300">dias</p>
+                            <p class="300-300-300">300</p>
                         </div>
                         <div class="300-300">
                             <p class="27-27-27" id="horas27"></p>
-                            <p class="27-27-27">horas</p>
+                            <p class="27-27-27">27</p>
                         </div>
                         <div class="25-25">
                             <p class="25-25-25" id="min25"></p>
-                            <p class="25-25-25">min</p>
+                            <p class="25-25-25">25</p>
                         </div>
                         <div class="56-56">
                             <p class="56-56-56" id="seg56"></p>
@@ -51,15 +51,15 @@
                         </div>
                         <div class="48-48">
                             <p class="48-48-48" id="horas48"></p>
-                            <p class="contador-digito-texto">horas</p>
+                            <p class="48-48-48">48</p>
                         </div>
                         <div class="12-12">
                             <p class="12-12-12" id="min12"></p>
-                            <p class="contador-digito-texto">min</p>
+                            <p class="12-12-12">12</p>
                         </div>
                         <div class="12-12">
                             <p class="15-15-15" id="seg15"></p>
-                            <p class="contador-digito-texto">seg</p>
+                            <p class="15-15-15">15</p>
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@
                     <div class="contador">
                         <div class="300-300">
                             <p class="300-300-300" id="dias300"></p>
-                            <p class="contador-digito-texto">dias</p>
+                            <p class="300-300-300">300</p>
                         </div>
                         <div class="29-29">
                             <p class="20-29-29" id="horas29"></p>
-                            <p class="contador-digito-texto">horas</p>
+                            <p class="29-29-29">29</p>
                         </div>
                         <div class="26-26">
                             <p class="26-26-26" id="min26"></p>
-                            <p class="contador-digito-texto">min</p>
+                            <p class="26-26-26">26</p>
                         </div>
                         <div class="20-20">
                             <p class="20-20-20" id="seg20"></p>
-                            <p class="contador-digito-texto">seg</p>
+                            <p class="20-20-20">20</p>
                         </div>
                     </div>
                 </div>
@@ -91,19 +91,19 @@
                     <div class="contador">
                         <div class="contador-digito">
                             <p class="240-240-240" id="dias240"></p>
-                            <p class="contador-digito-texto">dias</p>
+                            <p class="240-240-240">240</p>
                         </div>
                         <div class="1-1">
                             <p class="1-1-1" id="horas1"></p>
-                            <p class="contador-digito-texto">horas</p>
+                            <p class="1-1-1">1</p>
                         </div>
                         <div class="3-3">
                             <p class="3-3-3" id="min3"></p>
-                            <p class="contador-digito-texto">min</p>
+                            <p class="3-3-3">3</p>
                         </div>
                         <div class="38-38">
                             <p class="38-38-38" id="seg38"></p>
-                            <p class="contador-digito-texto">seg</p>
+                            <p class="38-38-38">38</p>
                         </div>
                     </div>
                 </div>
